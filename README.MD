@@ -64,11 +64,11 @@ This approach aligns with **industry-standard BI modeling practices**.
 
 
 
-![IMAGE ALT](images/dashboard_overview.png)
+![IMAGE ALT](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_2/blob/bec77f26880fde77a2d14130f22f67fc9eefb4b7/MA%20CS%201.png)
 
 ---
 
-![IMAGE ALT](images/customer_insights.png)
+![IMAGE ALT](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_2/blob/bec77f26880fde77a2d14130f22f67fc9eefb4b7/MA%20CS%202.png%20.png)
 
 
 
